@@ -1,1 +1,1 @@
-echo "This is test Jenkins integration 2"
+echo "This is test Jenkins integration 3"
